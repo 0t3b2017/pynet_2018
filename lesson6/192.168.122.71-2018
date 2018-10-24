@@ -1,0 +1,6 @@
+delete flash0:show_running.0t3B
+Delete filename [show_running.0t3B]? 
+Delete flash0:/show_running.0t3B? [confirm]
+
+%Error deleting flash0:/show_running.0t3B (File not found)
+SW1#

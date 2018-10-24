@@ -1,0 +1,6 @@
+
+SW1#show ip arp
+Protocol  Address          Age (min)  Hardware Addr   Type   Interface
+Internet  192.168.122.1          20   5254.00da.f4c5  ARPA   GigabitEthernet3/3
+Internet  192.168.122.71          -   00d5.3693.7b0f  ARPA   GigabitEthernet3/3
+SW1#
